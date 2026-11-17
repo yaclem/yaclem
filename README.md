@@ -1,4 +1,4 @@
-# Salut, moi c'est Clément 👋
+# Bonjour, moi c'est Clément 
 
 Ingénieur & Développeur passionné par l'**Intelligence Artificielle**, la **Computer Vision** et les **Systèmes Embarqués**. Je partage ici mes projets de R&D, mes modèles de Deep Learning et mes développements matériels.
 

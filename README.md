@@ -19,7 +19,6 @@ Ingénieur & Développeur passionné par l'**Intelligence Artificielle**, la **C
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Traitement_d'Images-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MATLAB](https://img.shields.io/badge/Simulink_&_R&D-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Embarqué & Architecture Matérielle**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,13 +29,4 @@ Ingénieur & Développeur passionné par l'**Intelligence Artificielle**, la **C
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryoris&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoris&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
 
